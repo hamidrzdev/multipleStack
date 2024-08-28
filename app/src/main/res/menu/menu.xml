@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/farzadFragment"
+        android:icon="@drawable/baseline_person_24"
+        android:title="farzad" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/baseline_person_24"
+        android:title="profile" />
+
+</menu>
